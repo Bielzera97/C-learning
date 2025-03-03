@@ -1,0 +1,14 @@
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\bin\Debug\net9.0\ola mundo.exe
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\bin\Debug\net9.0\ola mundo.deps.json
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\bin\Debug\net9.0\ola mundo.runtimeconfig.json
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\bin\Debug\net9.0\ola mundo.dll
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\bin\Debug\net9.0\ola mundo.pdb
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.AssemblyInfoInputs.cache
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.AssemblyInfo.cs
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.csproj.CoreCompileInputs.cache
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.dll
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\refint\ola mundo.dll
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.pdb
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ola mundo.genruntimeconfig.cache
+C:\Users\ramos\OneDrive\Área de Trabalho\Projetos\ola mundo\obj\Debug\net9.0\ref\ola mundo.dll
