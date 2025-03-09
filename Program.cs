@@ -1,20 +1,31 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace AprendendoCsharp{
+    class Program{
 
-List<Pessoa> pessoas = new List<Pessoa>{
-    new Pessoa("Gabriel", 27),
-    new Pessoa("Gabriela", 27)
-};
+        static void Saudacao(){
+            Console.WriteLine("Ola!");
+        }
+        static void Main(string[] args){
+            
+            while(true){
+                    Saudacao();
+                    Console.WriteLine("Me dê um numero");
+                    string num1 = Console.ReadLine();
+                    Console.WriteLine("Me dê outro numero");
+                    string num2 = Console.ReadLine();
+                    int number1, number2;
+            if (int.TryParse(num1, out number1) && int.TryParse(num2, out number2))
+            {
+                int soma = number1 + number2;
+                Console.WriteLine("A soma dos numeros é: " + soma);
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Erro: Por favor, digite apenas números válidos!");
+            }
+            }
+        }
 
-foreach (var pessoa in pessoas){
-    Console.WriteLine($"{pessoa.Nome} tem {pessoa.Idade} anos");
-}
-
-public class Pessoa {
-    public string Nome {get; set;}
-    public int Idade { get; set;}
-    public Pessoa ( string nome, int idade)
-    {
-        Nome = nome;
-        Idade = idade;
     }
-};
+
+}

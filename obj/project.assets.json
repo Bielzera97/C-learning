@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ramos\\OneDrive\\Área de Trabalho\\Projetos\\ola mundo\\ola mundo.csproj",
+      "projectUniqueName": "C:\\Users\\ramos\\OneDrive\\Área de Trabalho\\Projetos\\Play\\C-learning\\ola mundo.csproj",
       "projectName": "ola mundo",
-      "projectPath": "C:\\Users\\ramos\\OneDrive\\Área de Trabalho\\Projetos\\ola mundo\\ola mundo.csproj",
+      "projectPath": "C:\\Users\\ramos\\OneDrive\\Área de Trabalho\\Projetos\\Play\\C-learning\\ola mundo.csproj",
       "packagesPath": "C:\\Users\\ramos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ramos\\OneDrive\\Área de Trabalho\\Projetos\\ola mundo\\obj\\",
+      "outputPath": "C:\\Users\\ramos\\OneDrive\\Área de Trabalho\\Projetos\\Play\\C-learning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ramos\\AppData\\Roaming\\NuGet\\NuGet.Config"
